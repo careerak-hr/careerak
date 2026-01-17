@@ -1,0 +1,11 @@
+{
+  "name": "careerak-bootstrap",
+  "version": "1.0.0",
+  "main": "bootstrap.js",
+  "scripts": {
+    "start": "node bootstrap.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
